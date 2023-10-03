@@ -1,0 +1,55 @@
+/* Add custom CSS here */
+body {
+  background-color: #f4f4f4;
+  font-family: 'Montserrat', sans-serif;;
+}
+
+.navbar {
+  background-color: #fff;
+  color: white;
+  margin-bottom: 4rem;
+  box-shadow: 0 0 8px black;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+
+#mainDiv{
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.itemName{
+  color: #129530;
+}
+
+hr {
+  color: #129530;
+}
+
+.itemPrice{
+  float: right;
+  font-size: .9rem;
+  color: white;
+      background-color: #129530!important;
+}
+
+.itemDescription{
+  color: #4d4d4d;
+}
+
+.logo-img{
+  max-height: 3rem;
+}
+
+.fr{
+  float: right;
+}
+
+.d-none{
+  display: none;
+}
+
+.ttl{
+      text-align: end;
+}
